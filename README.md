@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- ⚛ I lovve to experimet with React
+- 📚 Book Lover
+- 💻 Eat, Sleep, Code Repeat
 
 <!---
 ravikumar283/ravikumar283 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
